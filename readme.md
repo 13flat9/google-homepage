@@ -1,0 +1,1 @@
+Laera ad setja upp html og css fyrir einfalda sidu: kopera Google heimasiduna sem aefingu
