@@ -1,0 +1,21 @@
+
+#logo {
+        display:block;
+        margin: 150px auto;
+            }
+#searchform {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            
+            position: relative;
+            bottom: 130px;
+            }
+#search {
+    border-radius: 50px;
+    width: 250px;
+    height: 25px;
+}
+::placeholder { 
+    font-size: 17px;
+}
